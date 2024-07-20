@@ -1,0 +1,17 @@
+
+#text{
+   text-align: center;
+}
+
+button{
+    
+    width: 3em;
+    height: 3em;
+    margin: 1em;
+}
+
+.center{
+    
+   position: relative;
+   left: 25em;
+}
